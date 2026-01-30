@@ -7,4 +7,6 @@ pdfplumber
 numpy
 openpyxl
 google-generativeai
+gspread
+oauth2client
 watchdog
